@@ -1,0 +1,53 @@
+amp-story {
+  font-family: 'Oswald',sans-serif;
+  color: #001b40cc;
+}
+amp-story-page {
+  background-color: #001b40cc;
+}
+h1, h2, h3 {
+  font-weight: bold;
+  font-size: 2.875em;
+  font-weight: normal;
+  line-height: 1.174;
+  color: #fff;
+}
+p {
+  font-weight: normal;
+  font-size: 1.0em;
+  line-height: 1.4em;
+  color: #fff;
+}
+q {
+  font-weight: 300;
+  font-size: 1.1em;
+}
+amp-story-grid-layer.bottom {
+  align-content:end;
+}
+amp-story-grid-layer.noedge {
+  padding: 0px;
+}
+amp-story-grid-layer.center-text {
+  align-content: center;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 50% 50%;
+}
+.banner-text {
+  text-align: left;
+  line-height: 1.8em;
+}
+p.services-text {
+  text-align: left;
+  font-size: 0.9em;
+}
+
+.ban {
+  background-color: rgba(0,0,0,0.8);
+  color: #fff;
+  padding: 4px;
+  border-radius: 4px; 
+}

@@ -1,0 +1,30 @@
+{
+  "bookendVersion": "v1.0",
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "small",
+      "title": "ほしのえんじにありんぐ",
+      "url": "https://www.ohoshi-tech.io",
+      "image": "https://res.cloudinary.com/hosswiii/image/upload/q_100/v1558012038/ryoma_o106xp.png"
+    },
+    {
+      "type": "small",
+      "title": "Learn about page speed",
+      "url": "https://notate.sh",
+      "image": "https://notate.appspot.com/public/icons/icon-512x512.png"
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "https://www.ampproject.org/stories/"
+        }
+      ]
+    }
+  ]
+}

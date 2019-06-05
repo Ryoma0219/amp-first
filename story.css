@@ -25,6 +25,9 @@ q {
 amp-story-grid-layer.bottom {
   align-content:end;
 }
+amp-story-grid-layer.top {
+  align-content:start;
+}
 amp-story-grid-layer.noedge {
   padding: 0px;
 }
@@ -49,5 +52,13 @@ p.services-text {
   background-color: rgba(0,0,0,0.8);
   color: #fff;
   padding: 4px;
+  border-radius: 4px; 
+}
+
+.blog {
+  background-color: rgba(0, 162, 184, 0.8);
+  color: #fff;
+  padding: 4px;
+  text-align: center;
   border-radius: 4px; 
 }
